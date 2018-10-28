@@ -23,6 +23,8 @@ Files required:
   <li>The next 2*e words are "the name of the friend [v]" and "the comfort level of u --> v [r]" (integar value only)</li>
 </ol>
 
+Output comes out as "human_out.txt"<br>
+
 <b>All names are one word only !! </b>
 
 Summary:
