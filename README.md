@@ -11,16 +11,16 @@ Python 3.7+ is required<br>
 Files required:
 <ol>
   <li>human_in.txt</li>
-  <li>main.py (either for linux or windows</li>
-  <li>seating_arrangement (linux application or exe)(/li)</li>
+  <li>main.py (either for linux or windows)</li>
+  <li>seating_arrangement (linux application or exe)</li>
 </ol>
 
 <h3>Input Format</h3>
 <ol>
-  <li>The first line contains 2 integars, the total number of guests (n) and the number of guest per group (x)</li>
-  <li>The next n lines start with a the name of the guest in question (u)</li>
-  <li>The next word in the line is the number of friends u has (e)</li>
-  <li>The next 2*e words are "the name of the friend (v)" and "the comfort level of u --> v (r)"</li>
+  <li>The first line contains 2 integars, "the total number of guests [n]" and "the number of guest per group [x]"</li>
+  <li>The next n lines start with a "the name of the guest in question [u]"</li>
+  <li>The next word in the line is "the number of friends u has [e]"</li>
+  <li>The next 2*e words are "the name of the friend [v]" and "the comfort level of u --> v [r]"</li>
 </ol>
 
 <b>All names are one word only !! </b>
