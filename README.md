@@ -25,7 +25,11 @@ Files required:
 
 Output comes out as "human_out.txt"<br>
 
-<b>All names are one word only !! </b>
+Notes:<br>
+<ul>
+  <li><b>All names are one word only !! </b></li>
+  <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
+</ul>
 
 Summary:
 <pre>
