@@ -43,6 +43,13 @@ goh_yu_xiang_ranier 3 chua_ren_kai 1 huang_kai_yao 1 cheong_chi_yun_estene 1
 huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 </pre>
   
+<h4>Collecting the data</h4>
+Data for this can be collected through a simple survey.<br>
+E.g.
+<pre>https://docs.google.com/forms/d/e/1FAIpQLSf4oH4CtIbe3vVPAGfDO4xeAFMzXXen8OvSN6lIEeLMYj5WDg/viewform</pre>
+
+The survey results are then formatted into a spreadsheet and can be copy pasted into the input file
+
 <h4>Running the program</h4>
 <ol>
   <li>Format input as stated above into "human_in.txt"</li>
@@ -50,6 +57,7 @@ huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 </ol>
 Notes:<br>
 <ul>
+  <li>
   <li><b>All names are one word only and cannot be numbers!! </b></li>
   <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
 </ul>
