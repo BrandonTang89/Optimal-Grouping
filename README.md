@@ -15,7 +15,7 @@ Files required:
   <li>seating_arrangement (linux application or exe)</li>
 </ol>
 
-<h3>Input Format</h3>
+<h4>Input Format</h4>
 <ol>
   <li>The first line contains 2 integars, "the total number of guests [n]" and "the number of guest per group [x]"</li>
   <li>The next n lines start with a "the name of the guest in question [u]"</li>
@@ -43,7 +43,7 @@ goh_yu_xiang_ranier 3 chua_ren_kai 1 huang_kai_yao 1 cheong_chi_yun_estene 1
 huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 </pre>
   
-<h3>Running the program</h3>
+<h4>Running the program</h4>
 <ol>
   <li>Format input as stated above into "human_in.txt"</li>
   <li>Run main.py (for either linux or windows</li>
