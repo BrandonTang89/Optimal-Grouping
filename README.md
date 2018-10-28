@@ -46,7 +46,7 @@ huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 <h4>Running the program</h4>
 <ol>
   <li>Format input as stated above into "human_in.txt"</li>
-  <li>Run main.py (for either linux or windows</li>
+  <li>Run main_linux.py for linux or "main_windows.exe" for windows</li>
 </ol>
 Notes:<br>
 <ul>
