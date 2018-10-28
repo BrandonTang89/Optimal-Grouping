@@ -7,12 +7,12 @@ Social gatherings usually have guests are divided into groups of x people (such 
 As such, <b>this algorithm aims to optimally divide n people into groups of x people such that the overall comfort level is the highest.</b>
 
 <h3>Installation and Usage</h3>
-<i>Python 3.7+ is required</i><br>
+<i>Python 3.7+ is required if intending to run on linux</i><br>
 Files required:
 <ol>
   <li>human_in.txt</li>
-  <li>main.py (either for linux or windows)</li>
-  <li>seating_arrangement (linux application or exe)</li>
+  <li>main_linux.py for linux OR main_windows.exe for windows</li>
+  <li>seating_arrangement for linux OR seating_arrangement.exe for windows</li>
 </ol>
 
 <h4>Input Format</h4>
