@@ -57,7 +57,7 @@ The survey results are then formatted into a spreadsheet and can be copy pasted 
 </ol>
 Notes:<br>
 <ul>
-  <li>
+  <li><b> !!IMPT!! Ensure there are exactly n+1 lines (data on everyone)<b></li>
   <li><b>All names are one word only and cannot be numbers!! </b></li>
   <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
 </ul>
