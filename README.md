@@ -7,7 +7,7 @@ Social gatherings usually have guests are divided into groups of x people (such 
 As such, <b>this algorithm aims to optimally divide n people into groups of x people such that the overall comfort level is the highest.</b>
 
 <h3>Installation and Usage</h3>
-Python 3.7+ is required<br>
+<i>Python 3.7+ is required</i><br>
 Files required:
 <ol>
   <li>human_in.txt</li>
