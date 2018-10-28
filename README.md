@@ -1,7 +1,7 @@
 # Optimal-Grouping
 An algorithm to maximise net comfort amongst people at social events.
 
-<b>About (Function)</b>
+<h3>About (Function)</h3>
 Social gatherings usually have guests are divided into groups of x people (such as for sitting around a table). However, many organisers fail to accomplish this task logically and instead naively ask the guests to divide amongst themselves, assuming that this arrangement would be optimsal. However, such an arrangement makes it awkward for people with little friends/connetions to find a comfortable position and is geneally just a pain for people to go through.<br>
 
 As such, <b>this algorithm aims to optimally divide n people into groups of x people such that the overall comfort level is the highest.</b>
@@ -29,7 +29,7 @@ Summary:
 <pre>
 n x
 u e {v r}*e //n times
-<pre>
+</pre>
 Example:
 <pre>
 8 3
@@ -41,7 +41,7 @@ chua_ren_kai 3 cheah_hoe_teng 2 goh_yu_xiang_ranier 2 huang_kai_yao 2
 elena_goh_ching_ping 0
 goh_yu_xiang_ranier 3 chua_ren_kai 1 huang_kai_yao 1 cheong_chi_yun_estene 1
 huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
-<pre>
+</pre>
   
 <h3>Mechanism (Attempting to be less technical)</h3>
 <ul>
