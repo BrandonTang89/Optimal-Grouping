@@ -25,12 +25,6 @@ Files required:
 
 Output comes out as "human_out.txt"<br>
 
-Notes:<br>
-<ul>
-  <li><b>All names are one word only !! </b></li>
-  <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
-</ul>
-
 Summary:
 <pre>
 n x
@@ -49,6 +43,17 @@ goh_yu_xiang_ranier 3 chua_ren_kai 1 huang_kai_yao 1 cheong_chi_yun_estene 1
 huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 </pre>
   
+<h3>Running the program</h3>
+<ol>
+  <li>Format input as stated above into "human_in.txt"</li>
+  <li>Run main.py (for either linux or windows</li>
+</ol>
+Notes:<br>
+<ul>
+  <li><b>All names are one word only !! </b></li>
+  <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
+</ul>
+
 <h3>Mechanism (Attempting to be less technical)</h3>
 <ul>
   <li>Each guest lists a set of people they are comfortable with and how comfortable they are with that person (integar values only).</li>
