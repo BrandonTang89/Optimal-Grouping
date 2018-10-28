@@ -20,7 +20,7 @@ Files required:
   <li>The first line contains 2 integars, "the total number of guests [n]" and "the number of guest per group [x]"</li>
   <li>The next n lines start with a "the name of the guest in question [u]"</li>
   <li>The next word in the line is "the number of friends u has [e]"</li>
-  <li>The next 2*e words are "the name of the friend [v]" and "the comfort level of u --> v [r]"</li>
+  <li>The next 2*e words are "the name of the friend [v]" and "the comfort level of u --> v [r]" (integar value only)</li>
 </ol>
 
 <b>All names are one word only !! </b>
@@ -45,7 +45,7 @@ huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
   
 <h3>Mechanism (Attempting to be less technical)</h3>
 <ul>
-  <li>Each guest lists a set of people they are comfortable with and how comfortable they are with that person.</li>
+  <li>Each guest lists a set of people they are comfortable with and how comfortable they are with that person (integar values only).</li>
   <li>The sum of comfort that a person has towards others is 1</li>
   <li>If 2 people are in the same group, their comfort towards each other is added to the total comfort for that permutation</li>
   <li>The algorithm bruteforces permutations of the groups such that the total comfort for the guests is max</li>
