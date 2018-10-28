@@ -21,6 +21,6 @@ As such, <b>this algorithm aims to optimally divide n people into groups of x pe
   <li>Each guest [g] gives a rating [R<sub>i</sub>] to the each other guest [i]</li>
   <li>The sum of weights edges away from each vertex is 1</li>
   <li>Thus the weight of each edge [g --> i] is 
-  <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\large&space;\frac{R_{i}}{\sum&space;R_{i}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;\large&space;\frac{R_{i}}{\sum&space;R_{i}}" title="\large \frac{R_{i}}{\sum R_{i}}" /></a></li>
+  <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\small&space;\frac{R_{i}}{\sum&space;R_{i}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;\large&space;\frac{R_{i}}{\sum&space;R_{i}}" title="\large \frac{R_{i}}{\sum R_{i}}" /></a></li>
   <li>Using a bruteforce approach, different permutations of groups are tried and the optimum arrangement such that the sum of edges weights between nodes in the same group is maximised is optained</li>
 </ul>
