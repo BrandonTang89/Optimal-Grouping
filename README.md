@@ -50,7 +50,7 @@ huang_kai_yao 3 goh_yu_xiang_ranier 1 chua_ren_kai 1 cheah_hoe_teng 1
 </ol>
 Notes:<br>
 <ul>
-  <li><b>All names are one word only !! </b></li>
+  <li><b>All names are one word only and cannot be numbers!! </b></li>
   <li>In linux, you need to make seating_arrangement executable first using "chmod +x seating_arrangement"</li>
 </ul>
 
