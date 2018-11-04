@@ -9,7 +9,7 @@ As such, <b>this algorithm aims to optimally divide n people into groups of x pe
 However, this algorithm is terribly inefficient (because I do not know of a more efficient algorithm). It has a time complexity of: <br>
 <img src="http://chart.apis.google.com/chart?cht=tx&chl=O(\frac{n!}{x!^{\frac{n}{x}}})"><br>
 Where n is the number of guests and x is the number of guests per group. <br>
-<b>Thus, this approach is only realisticall possible for situtations where there are less than 30 guests.</b>
+<b>Thus, this approach is only realistically possible for situtations where there are less than 30 guests.</b>
 
 <h3>Installation and Usage</h3>
 <i>Python 3.7+ is required if intending to run on linux</i><br>
