@@ -1,5 +1,5 @@
 # Optimal-Grouping
-An algorithm to maximise net comfort amongst people at social events.
+A complete search algorithm to maximise net comfort amongst people at social events.
 
 <h3>About (Function)</h3>
 Social gatherings usually have guests are divided into groups of x people (such as for sitting around a table). However, many organisers fail to accomplish this task logically and instead ask the guests to divide amongst themselves, assuming that this arrangement would be optimsal. However, such an arrangement makes it awkward for people with little friends/connetions to find a comfortable position and is geneally just a pain for people to go through.<br>
@@ -9,7 +9,7 @@ As such, <b>this algorithm aims to optimally divide n people into groups of x pe
 However, this algorithm is terribly inefficient (because I do not know of a more efficient algorithm). It has a time complexity of: <br>
 <img src="http://chart.apis.google.com/chart?cht=tx&chl=O(\frac{n!}{x!^{\frac{n}{x}}})"><br>
 Where n is the number of guests and x is the number of guests per group. <br>
-Thus, this approach is only realisticall possible for situtations where there are less than 30 guests.
+<b>Thus, this approach is only realisticall possible for situtations where there are less than 30 guests.</b>
 
 <h3>Installation and Usage</h3>
 <i>Python 3.7+ is required if intending to run on linux</i><br>
