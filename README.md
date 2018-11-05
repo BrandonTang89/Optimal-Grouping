@@ -13,10 +13,6 @@ Where n is the number of guests and x is the number of guests per group. <br>
 
 <b>For larger numbers of guests or smaller numbers of guest per group, look at my SUBOPTIMAL-GROUPING repository</b><br>
 
-<h4>Limitations</h3>
-1. The program is not garunteed to give the optimal answer<br>
-2. By the nature of the algorithm used, the groups are divided such that there are AT MOST x people per group. Sometimes there might be more than n/x groups, even when n/x is a whole number :(<br>
-
 <h3>Installation and Usage</h3>
 <i>Python 3.7+ is required if intending to run on linux</i><br>
 Files required:
