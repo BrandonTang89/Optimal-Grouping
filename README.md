@@ -11,7 +11,7 @@ However, this algorithm is terribly inefficient (because I do not know of a more
 Where n is the number of guests and x is the number of guests per group. <br>
 <b>Thus, this approach is only realistically possible for situtations where there are less than 30 guests.</b>
 
-<br><b><u>For larger numbers of guests or smaller numbers of guest per group, look at my SUBOPTIMAL-GROUPING repository</u></b><br>
+<br><b>__For larger numbers of guests or smaller numbers of guest per group, look at my SUBOPTIMAL-GROUPING repository__</b><br>
 
 <h3>Installation and Usage</h3>
 <i>Python 3.7+ is required if intending to run on linux</i><br>
